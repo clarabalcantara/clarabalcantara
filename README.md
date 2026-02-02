@@ -6,7 +6,3 @@ Software Engineering · Undergraduate Researcher · IFPB
 
 > Contact me through [LinkedIn](https://linkedin.com/in/clara-nunes-de-alcantara/) or [Email](mailto:clarabpnalcantara@gmail.com) me
 <p align="left"><img alt="clara's visitors" src="https://komarev.com/ghpvc/?username=clarabalcantara&color=8c36db&style=flat&label=visitors" /></p>
-
-<a href= "https://gamma.app/docs/Desconstruindo-Genero-e-Sexualidade-64b8duoc5yrfpic">
-:)
-</a>
