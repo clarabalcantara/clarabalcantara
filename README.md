@@ -1,4 +1,5 @@
 ### Clara Brito P. N. de Alcântara
+Software Engineering · Undergraduate Researcher · IFPB
 
 <img src="https://skillicons.dev/icons?i=python,django,react,cpp,postgresql,astro,linux&theme=light" />
 
