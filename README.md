@@ -1,9 +1,9 @@
 ### Clara Brito P. N. de Alcântara
-Software Engineering B.Sc. · Undergraduate Researcher · IFPB
 
-Runner-Up 🥈 | Huawei ICT Competition Brazil 2025–2026 (Computing)
+Backend Systems · Data Engineering · AI
+
+Huawei ICT Competition Brazil 2025–2026 · Runner-Up
 
 <img src="https://skillicons.dev/icons?i=python,django,react,cpp,postgresql,mongodb,linux&theme=light" />
 
-> Contact me through [LinkedIn](https://linkedin.com/in/clara-nunes-de-alcantara/) or [Email](mailto:clarabpnalcantara@gmail.com) me
-<p align="left"><img alt="clara's visitors" src="https://komarev.com/ghpvc/?username=clarabalcantara&color=8c36db&style=flat&label=visitors" /></p>
+[LinkedIn](https://linkedin.com/in/clara-nunes-de-alcantara/) · [Email](mailto:clara.alcantara@academico.ifpb.edu.br)
